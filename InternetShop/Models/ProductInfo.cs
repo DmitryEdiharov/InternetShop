@@ -17,7 +17,8 @@ namespace InternetShop.Models
         /// <summary>
         /// Список продуктов входящих в состав конкретного продукта
         /// </summary>
-        public List<int> Compounds;
+        //public List<int> Compounds;
 
+        //TODO: Придумать способ выражения состава в БД
     }
 }

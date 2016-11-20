@@ -145,7 +145,7 @@
     <Compile Include="Models\ProductInfo.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\Contexts.cs" />
-    <Compile Include="Models\RoleModel.cs" />
+    <Compile Include="Models\Role.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

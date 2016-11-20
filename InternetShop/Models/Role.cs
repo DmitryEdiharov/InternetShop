@@ -5,7 +5,7 @@ using System.Web;
 
 namespace InternetShop.Models
 {
-    public class RoleModel
+    public class Role
     {
         public int Id;
 

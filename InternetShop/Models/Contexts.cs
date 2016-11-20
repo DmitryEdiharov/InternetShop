@@ -10,7 +10,7 @@ namespace InternetShop.Models
     {
         public DbSet<Account> Accounts { get; set; }
         public DbSet<AccountInfo> AccountInfos { get; set; }
-        public DbSet<RoleModel> Roles { get; set; }
+        public DbSet<Role> Roles { get; set; }
 
 
         public DbSet<Product> Products { get; set; }
